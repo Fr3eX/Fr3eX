@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fr3eX
 - 👀 I’m interested in low level programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on networking projets
+- 💞️ I’m looking to collaborate on networking projects
 - 📫 www.bounifomar.com
